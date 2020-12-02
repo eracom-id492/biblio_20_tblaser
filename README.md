@@ -18,3 +18,8 @@ Source: https://codepen.io/keithclark/pen/kKxtF
 Le dossier contient une mise en page réalisé grâce a un système de grid et flexbox utilisant un script js<br/>
 Réalisé par Katherine Kato<br/>
 https://codepen.io/kathykato/pen/MqYVOq
+
+
+
+Le dossier Google_fonts contient un dossier avec un titre et un paragraphe dont la police a été changé grâce a google fonts.
+Réalisé par moi-même
