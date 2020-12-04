@@ -1,0 +1,24 @@
+
+
+@font-face {
+  font-family:"Grotesk","Karrik-Regular" ;
+  src: url(Grotesk.otf, Karrik-Regular.woff);
+}
+
+h1 {
+  font-family: "Grotesk", sans-serifs;
+  text-align: center;
+}
+
+.paragraphe {
+  display: flex;
+  height: 200px;
+  width: 50%;
+  max-width: 720px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+p {
+  font-family: "Karrik-Regular";
+}
