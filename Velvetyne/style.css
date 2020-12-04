@@ -8,6 +8,7 @@
 h1 {
   font-family: "Grotesk", sans-serifs;
   text-align: center;
+  position: relative;
 }
 
 .paragraphe {
@@ -18,6 +19,8 @@ h1 {
   align-items: center;
   justify-content: center;
   margin: auto;
+  position: relative;
+  margin-top: 200px;
 }
 p {
   font-family: "Karrik-Regular";
