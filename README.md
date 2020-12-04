@@ -22,5 +22,8 @@ https://codepen.io/kathykato/pen/MqYVOq
 
 
 Le dossier Google_fonts contient un dossier avec un titre et un paragraphe dont la police a été changé grâce a google fonts.<br/>
+Réalisé par moi-même
 
+
+Le dossier velvetyne contient un dossier avec un titre et un paragraphe dont la police a été changé grâce a Velvetyne.fr.<br/>
 Réalisé par moi-même
